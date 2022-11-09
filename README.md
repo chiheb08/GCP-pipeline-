@@ -1,4 +1,4 @@
-# GCP-pipeline-
+# GCP-pipeline 
 This project aims at helping beginners to get familiar with some of the services offered by GCP .   
 
 ![Getting Started](./gcp-project.png)  
@@ -24,7 +24,10 @@ gcloud builds submit --config cloudbuild.yaml
  
 
 
+### Conclion : 
+Thank you and stay tuned for more interesting projects to help you in your journey ! keep learning and keep being motivated  
 
-Thank you and stay tuned for more interesting projects to help you in your journey ! keep learning and keep being motivated 
+
+
 
 
