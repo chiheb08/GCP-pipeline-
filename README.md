@@ -24,7 +24,7 @@ gcloud builds submit --config cloudbuild.yaml
  
 
 
-### Conclion : 
+### Conclusion :  
 Thank you and stay tuned for more interesting projects to help you in your journey ! keep learning and keep being motivated  
 
 
